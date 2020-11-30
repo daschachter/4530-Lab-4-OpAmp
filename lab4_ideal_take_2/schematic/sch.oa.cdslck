@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      dts86
+HostName                       en-ec-ecelinux-08.coecis.cornell.edu
+ProcessIdentifier              4978
+ProcessCreationTime_UTC        1606764248
+ProcessCreationTime_Readable   Mon Nov 30 14:24:08 2020 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/dts86/ece4530/labs/lab4_ideal_take_2/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Nov 30 14:24:38 2020 EST
